@@ -1,2 +1,2 @@
-FROM docteurklein/sqitch:base
+FROM donatello/sqitch:base
 RUN cpan DBD::mysql
